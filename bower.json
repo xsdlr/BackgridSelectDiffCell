@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "authors": [
+    "消失的旅人 <869412057@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backgrid": "~0.3.5",
+    "backbone-pageable": "~1.4.8",
+    "backgrid-paginator": "~0.3.5",
+    "backgrid-filter": "~0.3.5",
+    "backgrid-select-all": "~0.3.5"
+  },
+  "overrides": {},
+  "devDependencies": {}
+}

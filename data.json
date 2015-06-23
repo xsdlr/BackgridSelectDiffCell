@@ -1,0 +1,90 @@
+[{
+        "per_page": 3,
+        "total_entries": 4,
+        "total_pages": 2,
+        "page": 1
+    },
+    [{
+        "name": "Afghanistan",
+        "url": "http://en.wikipedia.org/wiki/Afghanistan",
+        "pop": 25500100,
+        "date": "2013-01-01",
+        "percentage": 0.36,
+        "id": 1,
+        "role": {
+            "option": [{
+                "key": "4",
+                "value": "管理员"
+            }, {
+                "key": "5",
+                "value": "客户代表"
+            }, {
+                "key": "6",
+                "value": "基础运营部"
+            }],
+            "selected": ["4"]
+        }
+    }, {
+        "name": "Albania",
+        "url": "http://en.wikipedia.org/wiki/Albania",
+        "pop": 2831741,
+        "date": "2011-10-01",
+        "percentage": 0.04,
+        "id": 2,
+        "role": {
+            "multiple": true,
+            "option": [{
+                "key": "7",
+                "value": "项目勘察"
+            }, {
+                "key": "8",
+                "value": "施工队"
+            }, {
+                "key": "9",
+                "value": "财务"
+            }],
+            "selected": ["7", "8"]
+        }
+    }, {
+        "name": "Andorra",
+        "url": "http://en.wikipedia.org/wiki/Andorra",
+        "pop": 78115,
+        "date": "2011-07-01",
+        "percentage": 0.0011,
+        "id": 3,
+        "role": {
+            "option": [{
+                "key": "4",
+                "value": "管理员"
+            }, {
+                "key": "5",
+                "value": "客户代表"
+            }, {
+                "key": "6",
+                "value": "基础运营部"
+            }],
+            "selected": ["4"]
+        }
+    }, {
+        "name": "Angola",
+        "url": "http://en.wikipedia.org/wiki/Angola",
+        "pop": 20609294,
+        "date": "2012-07-01",
+        "percentage": 0.29,
+        "id": 4,
+        "role": {
+            "multiple": true,
+            "option": [{
+                "key": "7",
+                "value": "项目勘察"
+            }, {
+                "key": "8",
+                "value": "施工队"
+            }, {
+                "key": "9",
+                "value": "财务"
+            }],
+            "selected": ["7", "8"]
+        }
+    }]
+]
